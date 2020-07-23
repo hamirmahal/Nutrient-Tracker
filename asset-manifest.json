@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Nutrient-Tracker/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Nutrient-Tracker/static/js/main.ad24e2d4.chunk.js",
+    "main.js.map": "/Nutrient-Tracker/static/js/main.ad24e2d4.chunk.js.map",
+    "runtime-main.js": "/Nutrient-Tracker/static/js/runtime-main.1762f36b.js",
+    "runtime-main.js.map": "/Nutrient-Tracker/static/js/runtime-main.1762f36b.js.map",
+    "static/js/2.9b657bc5.chunk.js": "/Nutrient-Tracker/static/js/2.9b657bc5.chunk.js",
+    "static/js/2.9b657bc5.chunk.js.map": "/Nutrient-Tracker/static/js/2.9b657bc5.chunk.js.map",
+    "index.html": "/Nutrient-Tracker/index.html",
+    "precache-manifest.24cafc47f924135334441acca47e0def.js": "/Nutrient-Tracker/precache-manifest.24cafc47f924135334441acca47e0def.js",
+    "service-worker.js": "/Nutrient-Tracker/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Nutrient-Tracker/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9b657bc5.chunk.js.LICENSE.txt": "/Nutrient-Tracker/static/js/2.9b657bc5.chunk.js.LICENSE.txt",
+    "static/media/AlmondsHamirMahal.png": "/Nutrient-Tracker/static/media/AlmondsHamirMahal.556bbdad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1762f36b.js",
+    "static/js/2.9b657bc5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.ad24e2d4.chunk.js"
+  ]
+}
