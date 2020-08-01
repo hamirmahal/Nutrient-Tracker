@@ -1,0 +1,17 @@
+{foodClass: "FinalFood", description: "Chard, swiss, raw", foodNutrients: Array(89), foodComponents: Array(0), scientificName: "Beta vulgaris subsp. vulagaris", …}
+dataType: "SR Legacy"
+description: "Chard, swiss, raw"
+fdcId: 169991
+foodAttributes: []
+foodCategory: {id: 11, code: "1100", description: "Vegetables and Vegetable Products"}
+foodClass: "FinalFood"
+foodComponents: []
+foodNutrients: (89) [{…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}, {…}]
+foodPortions: (2) [{…}, {…}]
+inputFoods: []
+isHistoricalReference: true
+ndbNumber: 11147
+nutrientConversionFactors: (2) [{…}, {…}]
+publicationDate: "4/1/2019"
+scientificName: "Beta vulgaris subsp. vulagaris"
+__proto__: Object

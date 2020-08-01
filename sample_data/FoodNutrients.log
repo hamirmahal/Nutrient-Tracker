@@ -1,0 +1,92 @@
+foodNutrients: Array(89)
+0: {type: "FoodNutrient", nutrient: {…}}
+1: {type: "FoodNutrient", id: 1485890, nutrient: {…}, dataPoints: 2, amount: 92.66}
+2: {type: "FoodNutrient", id: 1485846, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+3: {type: "FoodNutrient", id: 1485834, nutrient: {…}, dataPoints: 0, amount: 79}
+4: {type: "FoodNutrient", id: 1485870, nutrient: {…}, dataPoints: 1, amount: 1.8}
+5: {type: "FoodNutrient", id: 1485889, nutrient: {…}, dataPoints: 1, amount: 0.2}
+6: {type: "FoodNutrient", id: 1485871, nutrient: {…}, dataPoints: 0, amount: 1.6}
+7: {type: "FoodNutrient", nutrient: {…}}
+8: {type: "FoodNutrient", id: 1485866, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+9: {type: "FoodNutrient", id: 1485872, nutrient: {…}, dataPoints: 0, amount: 1.6}
+10: {type: "FoodNutrient", id: 1485914, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+11: {type: "FoodNutrient", nutrient: {…}}
+12: {type: "FoodNutrient", id: 1485891, nutrient: {…}, dataPoints: 1, amount: 51}
+13: {type: "FoodNutrient", id: 1485873, nutrient: {…}, dataPoints: 1, amount: 1.8}
+14: {type: "FoodNutrient", id: 1485874, nutrient: {…}, dataPoints: 2, amount: 81}
+15: {type: "FoodNutrient", id: 1485875, nutrient: {…}, dataPoints: 1, amount: 46}
+16: {type: "FoodNutrient", id: 1485892, nutrient: {…}, dataPoints: 2, amount: 379}
+17: {type: "FoodNutrient", id: 1485876, nutrient: {…}, dataPoints: 2, amount: 213}
+18: {type: "FoodNutrient", id: 1485893, nutrient: {…}, dataPoints: 0, amount: 0.36}
+19: {type: "FoodNutrient", id: 1485877, nutrient: {…}, dataPoints: 0, amount: 0.179}
+20: {type: "FoodNutrient", id: 1485878, nutrient: {…}, dataPoints: 0, amount: 0.366}
+21: {type: "FoodNutrient", id: 1485906, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+22: {type: "FoodNutrient", nutrient: {…}}
+23: {type: "FoodNutrient", id: 1485884, nutrient: {…}, dataPoints: 1, amount: 30}
+24: {type: "FoodNutrient", id: 1485885, nutrient: {…}, dataPoints: 1, amount: 0.04}
+25: {type: "FoodNutrient", id: 1485886, nutrient: {…}, dataPoints: 1, amount: 0.09}
+26: {type: "FoodNutrient", id: 1485894, nutrient: {…}, dataPoints: 1, amount: 0.4}
+27: {type: "FoodNutrient", id: 1485895, nutrient: {…}, dataPoints: 0, amount: 0.172}
+28: {type: "FoodNutrient", id: 1485896, nutrient: {…}, dataPoints: 0, amount: 0.099}
+29: {type: "FoodNutrient", id: 1485887, nutrient: {…}, dataPoints: 0, amount: 14}
+30: {type: "FoodNutrient", id: 1485833, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+31: {type: "FoodNutrient", id: 1485837, nutrient: {…}, dataPoints: 0, amount: 14}
+32: {type: "FoodNutrient", id: 1485847, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+33: {type: "FoodNutrient", id: 1485863, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+34: {type: "FoodNutrient", id: 1485848, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+35: {type: "FoodNutrient", id: 1485888, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+36: {type: "FoodNutrient", id: 1485904, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+37: {type: "FoodNutrient", id: 1485836, nutrient: {…}, dataPoints: 0, amount: 306}
+38: {type: "FoodNutrient", id: 1485868, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+39: {type: "FoodNutrient", id: 1485909, nutrient: {…}, dataPoints: 69, foodNutrientDerivation: {…}, …}
+40: {type: "FoodNutrient", id: 1485910, nutrient: {…}, dataPoints: 69, foodNutrientDerivation: {…}, …}
+41: {type: "FoodNutrient", id: 1485907, nutrient: {…}, dataPoints: 17, foodNutrientDerivation: {…}, …}
+42: {type: "FoodNutrient", id: 1485835, nutrient: {…}, dataPoints: 0, amount: 6116}
+43: {type: "FoodNutrient", id: 1485908, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+44: {type: "FoodNutrient", id: 1485915, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+45: {type: "FoodNutrient", id: 1485911, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+46: {type: "FoodNutrient", id: 1485903, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+47: {type: "FoodNutrient", id: 1485864, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+48: {type: "FoodNutrient", id: 1485905, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+49: {type: "FoodNutrient", id: 1485867, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+50: {type: "FoodNutrient", nutrient: {…}}
+51: {type: "FoodNutrient", id: 1485838, nutrient: {…}, dataPoints: 0, amount: 0.03}
+52: {type: "FoodNutrient", id: 1485849, nutrient: {…}, dataPoints: 0, amount: 0}
+53: {type: "FoodNutrient", id: 1485850, nutrient: {…}, dataPoints: 0, amount: 0}
+54: {type: "FoodNutrient", id: 1485839, nutrient: {…}, dataPoints: 0, amount: 0}
+55: {type: "FoodNutrient", id: 1485851, nutrient: {…}, dataPoints: 0, amount: 0}
+56: {type: "FoodNutrient", id: 1485840, nutrient: {…}, dataPoints: 0, amount: 0}
+57: {type: "FoodNutrient", id: 1485841, nutrient: {…}, dataPoints: 0, amount: 0}
+58: {type: "FoodNutrient", id: 1485852, nutrient: {…}, dataPoints: 0, amount: 0.03}
+59: {type: "FoodNutrient", id: 1485853, nutrient: {…}, dataPoints: 0, amount: 0}
+60: {type: "FoodNutrient", id: 1485861, nutrient: {…}, dataPoints: 0, amount: 0.04}
+61: {type: "FoodNutrient", id: 1485843, nutrient: {…}, dataPoints: 0, amount: 0}
+62: {type: "FoodNutrient", id: 1485854, nutrient: {…}, dataPoints: 0, amount: 0.04}
+63: {type: "FoodNutrient", id: 1485859, nutrient: {…}, dataPoints: 0, amount: 0}
+64: {type: "FoodNutrient", id: 1485860, nutrient: {…}, dataPoints: 0, amount: 0}
+65: {type: "FoodNutrient", id: 1485862, nutrient: {…}, dataPoints: 0, amount: 0.07}
+66: {type: "FoodNutrient", id: 1485855, nutrient: {…}, dataPoints: 0, amount: 0.063}
+67: {type: "FoodNutrient", id: 1485856, nutrient: {…}, dataPoints: 0, amount: 0.007}
+68: {type: "FoodNutrient", id: 1485858, nutrient: {…}, dataPoints: 0, amount: 0}
+69: {type: "FoodNutrient", id: 1485857, nutrient: {…}, dataPoints: 0, amount: 0}
+70: {type: "FoodNutrient", id: 1485844, nutrient: {…}, dataPoints: 0, amount: 0}
+71: {type: "FoodNutrient", id: 1485845, nutrient: {…}, dataPoints: 0, amount: 0}
+72: {type: "FoodNutrient", id: 1485842, nutrient: {…}, dataPoints: 0, amount: 0}
+73: {type: "FoodNutrient", id: 1485869, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+74: {type: "FoodNutrient", id: 1485879, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+75: {type: "FoodNutrient", nutrient: {…}}
+76: {type: "FoodNutrient", id: 1485880, nutrient: {…}, dataPoints: 4, amount: 0.017}
+77: {type: "FoodNutrient", id: 1485881, nutrient: {…}, dataPoints: 4, amount: 0.083}
+78: {type: "FoodNutrient", id: 1485897, nutrient: {…}, dataPoints: 4, amount: 0.147}
+79: {type: "FoodNutrient", id: 1485898, nutrient: {…}, dataPoints: 4, amount: 0.13}
+80: {type: "FoodNutrient", id: 1485899, nutrient: {…}, dataPoints: 7, amount: 0.099}
+81: {type: "FoodNutrient", id: 1485882, nutrient: {…}, dataPoints: 6, amount: 0.019}
+82: {type: "FoodNutrient", id: 1485883, nutrient: {…}, dataPoints: 4, amount: 0.11}
+83: {type: "FoodNutrient", id: 1485900, nutrient: {…}, dataPoints: 4, amount: 0.11}
+84: {type: "FoodNutrient", id: 1485901, nutrient: {…}, dataPoints: 4, amount: 0.117}
+85: {type: "FoodNutrient", id: 1485902, nutrient: {…}, dataPoints: 4, amount: 0.036}
+86: {type: "FoodNutrient", id: 1485865, nutrient: {…}, dataPoints: 0, amount: 0}
+87: {type: "FoodNutrient", id: 1485912, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+88: {type: "FoodNutrient", id: 1485913, nutrient: {…}, dataPoints: 0, foodNutrientDerivation: {…}, …}
+length: 89
+__proto__: Array(0)

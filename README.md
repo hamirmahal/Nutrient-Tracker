@@ -1,3 +1,22 @@
+This is a nutrition tracker I'm building that will
+one day, if I am successful, replace my current
+method of tracking my nutritional intake with Microsoft
+Excel.
+
+Currently, the top part of the main page of this application
+appears as follows.
+
+![Top of Nutrition Tracker's Main Page](https://raw.githubusercontent.com/hamirmahal/Nutrient-Tracker/master/screenshots/Nutrition-Tracker-Top.jpg)
+
+And, the bottom part of the main page of this application
+currently appears as follows.
+
+![Bottom of Nutrition Tracker's Main Page](https://raw.githubusercontent.com/hamirmahal/Nutrient-Tracker/master/screenshots/Nutrition-Tracker-Bottom.jpg)
+
+create-react-app automatically generated everything
+after this paragraph except the blank line immediately
+following it.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
