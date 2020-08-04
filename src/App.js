@@ -6,16 +6,15 @@ import './App.css';
 export default function App() {
   let url = 'https://api.nal.usda.gov/fdc/v1/food/';
   const [ dailyTotal , setDailyTotal ] = useState([]);
-  const [ sixDigitID, setSixDigitID ] = useState(169991);
+  const [sixDigitID,setSixDigitID] = useState(169991);
   const add = foodObject =>                          {
     let newTotal = [ ...dailyTotal ];
-    foodObject.foodNutrients.forEach( nutrient => {
+    foodObject.foodNutrients.forEach( n => {
       for (let i = 0; i < newTotal.length; i++)
-        if (newTotal[i].id === nutrient.id)
-          return newTotal[i].amount = Math.round (
-            (newTotal[i].amount + nutrient.amount) *
-            1000 ) / 1000;
-      nutrient.id && newTotal.push(nutrient);     } );
+        if (newTotal[i].nutrient.id === n.nutrient.id)
+          return newTotal[i].amount=Math.round(
+          (newTotal[i].amount + n.amount)*1000)/1000;
+      n.id && newTotal.push(n);            }        );
     setDailyTotal(newTotal);                         }
   const handleID = e => setSixDigitID(e.target.value);
   const handleSubmit = buttonSubmitEvent => {
