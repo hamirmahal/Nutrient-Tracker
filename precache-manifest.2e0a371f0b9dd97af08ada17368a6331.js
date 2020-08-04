@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b0611b04a57b59ad760ad3dcb573443",
+    "revision": "44309267f9798774816ab967d8ebd668",
     "url": "/Nutrient-Tracker/index.html"
   },
   {
-    "revision": "fd9b328be9690109caa7",
+    "revision": "b112d3369a7c1cac256e",
     "url": "/Nutrient-Tracker/static/css/main.4ff71eaa.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Nutrient-Tracker/static/js/2.e10d52f3.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "fd9b328be9690109caa7",
-    "url": "/Nutrient-Tracker/static/js/main.1933c297.chunk.js"
+    "revision": "b112d3369a7c1cac256e",
+    "url": "/Nutrient-Tracker/static/js/main.868f77c1.chunk.js"
   },
   {
     "revision": "e4bd4d52a7b3afcfad21",

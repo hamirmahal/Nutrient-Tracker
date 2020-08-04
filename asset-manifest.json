@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Nutrient-Tracker/static/css/main.4ff71eaa.chunk.css",
-    "main.js": "/Nutrient-Tracker/static/js/main.1933c297.chunk.js",
-    "main.js.map": "/Nutrient-Tracker/static/js/main.1933c297.chunk.js.map",
+    "main.js": "/Nutrient-Tracker/static/js/main.868f77c1.chunk.js",
+    "main.js.map": "/Nutrient-Tracker/static/js/main.868f77c1.chunk.js.map",
     "runtime-main.js": "/Nutrient-Tracker/static/js/runtime-main.1762f36b.js",
     "runtime-main.js.map": "/Nutrient-Tracker/static/js/runtime-main.1762f36b.js.map",
     "static/js/2.e10d52f3.chunk.js": "/Nutrient-Tracker/static/js/2.e10d52f3.chunk.js",
     "static/js/2.e10d52f3.chunk.js.map": "/Nutrient-Tracker/static/js/2.e10d52f3.chunk.js.map",
     "index.html": "/Nutrient-Tracker/index.html",
-    "precache-manifest.d51a85bc60d951039be81f9aaec53310.js": "/Nutrient-Tracker/precache-manifest.d51a85bc60d951039be81f9aaec53310.js",
+    "precache-manifest.2e0a371f0b9dd97af08ada17368a6331.js": "/Nutrient-Tracker/precache-manifest.2e0a371f0b9dd97af08ada17368a6331.js",
     "service-worker.js": "/Nutrient-Tracker/service-worker.js",
     "static/css/main.4ff71eaa.chunk.css.map": "/Nutrient-Tracker/static/css/main.4ff71eaa.chunk.css.map",
     "static/js/2.e10d52f3.chunk.js.LICENSE.txt": "/Nutrient-Tracker/static/js/2.e10d52f3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1762f36b.js",
     "static/js/2.e10d52f3.chunk.js",
     "static/css/main.4ff71eaa.chunk.css",
-    "static/js/main.1933c297.chunk.js"
+    "static/js/main.868f77c1.chunk.js"
   ]
 }
